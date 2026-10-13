@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 # YBOT — ein zweibeiniger Roboter lernt gehen
 
 Ein selbstgeschriebenes Programm in C, das einem simulierten Humanoiden das
